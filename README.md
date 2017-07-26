@@ -13,11 +13,6 @@ GenisysPro
 
 Languages
 -------------
-[English](#english)  
-[简体中文](#简体中文)  
-[繁體中文](#繁體中文)  
-[日本語](#日本語)   
-[Dutch](#dutch)  
 [Русский](#Русский)  
 
 # English
