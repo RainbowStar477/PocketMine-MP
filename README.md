@@ -4,7 +4,7 @@
 -------------
 
 __GenisysPro - многофункциональное серверное программное обеспечение для *Minecraft: Pocket Edition* и *Minecraft: Windows 10 Edition*.__  
-GenisysPro основан на **[Genisys](https://github.com/iTXTech/Genisys)** с расширенной функциональностью. Большая часть кода изначально была написана участниками **[iTXTech](https://github.com/orgs/iTXTech/people)**.  
+GenisysPro основан на **[RainbowStar477](https://github.com/RainbowStar477/PocketMine-MP)** с расширенной функциональностью. Большая часть кода изначально была написана участниками **[RainbowStar477](https://github.com/RainbowStar477)**.  
 
 Некоторые функции, предлагаемые Genisys:
 * Поддержка нескольких клиентских версий
